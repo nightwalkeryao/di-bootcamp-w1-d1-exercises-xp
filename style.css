@@ -51,6 +51,9 @@ ul,
 ol {
   margin: 20px 50px;
 }
+li{
+	font-style: italic;
+}
 hr {
   border-bottom: 1px dashed #3c3c3c;
   width: 100%;
@@ -61,6 +64,10 @@ mark {
   background-color: #9d3d023f;
   color: #0f0c0c;
   border-radius: 4px;
+}
+u{
+  font-size: 15pt;
+  font-weight: 700;
 }
 table{
     margin: 40px auto;
