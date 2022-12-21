@@ -1,1 +1,1 @@
-# DI Bootcamp - Week 1 - Day 1 - Exercise : HTML Page
+# DI Bootcamp - Week 1 - Day 1 - Exercise XP : HTML Page
